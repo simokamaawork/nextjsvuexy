@@ -76,6 +76,7 @@ export type MailType = {
   attachments: MailAttachmentType[]
 }
 
+
 export type MailFoldersArrType = {
   icon: ReactElement
   name: MailFolderType
